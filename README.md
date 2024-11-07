@@ -1,4 +1,4 @@
-###### 팀 개발을 위한 git github 시작하기
+# 팀 개발을 위한 git github 시작하기
 ![image](https://github.com/user-attachments/assets/4f1e167d-bd87-4335-8e3b-1daeb7fdfa96)
 
 
